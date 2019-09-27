@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+<a href="https://code.visualstudio.com/docs?start=true" target="_blank">Learn about HTM(new windowL</a>
+<br><br>
+
+<a href="">
+    <img src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Galaxy Image">
+</a>
+    <h1>Heading 1</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus, ipsum eget pretium aliquam, orci felis
+        euismod ipsum, non efficitur odio ipsum quis turpis. Ut ipsum turpis, aliquam ac semper vitae, lacinia eu enim.
+        Proin faucibus sollicitudin odio, finibus bibendum quam imperdiet mollis. Vivamus facilisis magna nec nisl
+        aliquet, vel pellentesque felis posuere. Pellentesque eget dignissim nulla, sit amet lacinia leo. Proin aliquet
+        accumsan quam vel condimentum. Duis ligula nunc, pulvinar at consequat nec, dignissim ut mi. Nullam nisl elit,
+        suscipit at enim eget, euismod mollis ligula. </p>
+<hr>
+<img src="./graham-holtshausen-fUnfEz3VLv4-unsplash.jpg" alt="galaxy" width="500" height="400">
+    <h2>Heading 2
+    </h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus, ipsum eget pretium aliquam, orci felis
+        euismod ipsum, non efficitur odio ipsum quis turpis. Ut ipsum turpis, aliquam ac semper vitae, lacinia eu enim.
+        Proin faucibus sollicitudin odio, finibus bibendum quam imperdiet mollis. Vivamus facilisis magna nec nisl
+        aliquet, vel pellentesque felis posuere. Pellentesque eget dignissim nulla, sit amet lacinia leo. Proin aliquet
+        accumsan quam vel condimentum. Duis ligula nunc, pulvinar at consequat nec, dignissim ut mi. Nullam nisl elit,
+        suscipit at enim eget, euismod mollis ligula. </p>
+<hr>
+
+        <h3>Heading 3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus, ipsum eget pretium aliquam, orci felis euismod ipsum, non efficitur odio ipsum quis turpis. Ut ipsum turpis, aliquam ac semper vitae, lacinia eu enim. Proin faucibus sollicitudin odio, finibus bibendum quam imperdiet mollis. Vivamus facilisis magna nec nisl aliquet, vel pellentesque felis posuere. Pellentesque eget dignissim nulla, sit amet lacinia leo. Proin aliquet accumsan quam vel condimentum. Duis ligula nunc, pulvinar at consequat nec, dignissim ut mi. Nullam nisl elit, suscipit at enim eget, euismod mollis ligula. </p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla finibus, ipsum eget pretium aliquam, orci felis euismod ipsum, non efficitur odio ipsum quis turpis. Ut ipsum turpis, aliquam ac semper vitae, lacinia eu enim. Proin faucibus sollicitudin odio, finibus bibendum quam imperdiet mollis. Vivamus facilisis magna nec nisl aliquet, vel pellentesque felis posuere.<br><br> Pellentesque eget dignissim nulla, sit amet lacinia leo. Proin aliquet accumsan quam vel condimentum. Duis ligula nunc, pulvinar at consequat nec, dignissim ut mi. Nullam nisl elit, suscipit at enim eget, euismod mollis ligula. </p>
+</body>
+
+</html>
