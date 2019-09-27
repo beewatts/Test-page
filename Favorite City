@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+
+<body>
+    <h1>Denver</h1>
+    <h2>My Favorite City</h2>
+
+    <img src="./cassie-gallegos-tjoxkIODoCE-unsplash.jpg" alt="Denver" width="300" height="200">
+    <hr>
+    <h3>What I love about Denver!</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et libero convallis, tempus orci ultrices, posuere ipsum. Aliquam mattis, nulla quis sodales dictum, urna lorem luctus nisl, ac ornare dolor tellus sit amet sem. Maecenas eu luctus nibh, nec consectetur neque. Integer purus elit, finibus non faucibus non, blandit elementum magna. Nullam egestas malesuada leo ac luctus. Pellentesque in felis vel ante porta vulputate. Quisque lectus erat, congue non commodo pulvinar, consequat eget lacus. Quisque vitae metus purus. Curabitur tincidunt pretium turpis id porttitor. </p>
+    
+    <h3>Favorite things to do</h3>
+
+    <ul>
+        <li>Finding new restaurants</li>
+        <li>Shopping</li>
+        <li>Watching the colors change with the season</li>
+    </ul> 
+    
+    <h3>Top 3 places to eat</h3>
+    <ol>
+        <li>
+            <a href="https://sushi-rama.com/">Sushi Rama</a>
+        </li>
+        <li><a href="https://urbanfarmerdenver.com/">Urban Farmer</a>
+        </li>
+        <li>
+            <a href="https://www.steubens.com/">Steubens</a>
+        </li>
+    </ol>
+
+    <h3>Demographics</h3>
+
+    <table>
+        <tr>
+         <th>Population</th>  
+         <th>Highest Elevation</th> 
+         <th>Lowest Elevation</th>
+        </tr>
+        <tr>
+            <td>619,968</td>
+            <td>5,280 feet</td>
+            <td>72 feet</td>
+        </tr>
+    </table>
+</body>
+</html>
